@@ -6,6 +6,9 @@ int main()
 {
   bool isMale = true;
   bool isjomblo = true;
+  int a,b;
+  a = 12;
+  b = 15;
   if(isMale == true)
   {
     cout<<"you are male";
@@ -19,12 +22,22 @@ int main()
     cout<<"you are male";
   }
   
+  
+  if(a >= b )
+  {
+    cout<<"a lebih besar";
+  }
+  if(a <= b )
+  {
+    vout<<"b lebih besar";
+  }
+  
   return 0;
   
   
   // !=
   // >= 
-  // =<
+  // <=
   // ||
   // &&
 }
