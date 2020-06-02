@@ -4,17 +4,20 @@ using namespace std;
 
 int main()
 {
+  
+  //programming with nested if
   bool isMale = true;
   bool isjomblo = true;
-  int a,b;
-  a = 12;
-  b = 15;
   if(isMale == true)
   {
     cout<<"you are male";
     if(isjomblo = true)
     {
       cout<<"jomblo";
+    }
+    else
+    {
+      cout<<"not jomblo";
     }
   }
   else
@@ -23,21 +26,6 @@ int main()
   }
   
   
-  if(a >= b )
-  {
-    cout<<"a lebih besar";
-  }
-  if(a <= b )
-  {
-    vout<<"b lebih besar";
-  }
-  
   return 0;
   
-  
-  // !=
-  // >= 
-  // <=
-  // ||
-  // &&
 }
