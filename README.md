@@ -1,4 +1,10 @@
 # c-lesson
+created by
+arfy slowy
+other :
+zulfikri 
+
+
 
 # include
 1. data type
