@@ -10,6 +10,7 @@
 8. Class and method
 8. excercises
 9. simple apps
+10. try exception
 
 ## for error about string for some IDE
 don't forget in header **#include<string.h>** for string
