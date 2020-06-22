@@ -1,8 +1,8 @@
 # c-lesson
 ## include
-1. data type
-2. decision
-3. looping
+1. data type              13.struct
+2. decision               14.stack with Cpp
+3. looping                15.queue with cpp
 4. input ouput
 5. strings
 6. array
@@ -16,6 +16,8 @@
 
 ## for error about string for some IDE
 don't forget in header **#include<string.h>** for string
+## for error about exit(0) for some IDE C++
+in header add **#include<stdio.h>** for exit in program
 
 ## information
 more information follow me on [instagram](https://instagram.com/arfy.slowy)
