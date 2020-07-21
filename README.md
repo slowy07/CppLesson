@@ -1,5 +1,10 @@
 ![alt text](https://www.educative.io/api/page/5393602882568192/image/download/6038586442907648)
 ## :boy: coding boy
+:boy: arfy slowy
+:boy: zulfikri
+:boy: sayuti
+:boy: aditya 
+
 # cpp Lesson
 ## include
 1. data type              13.struct
