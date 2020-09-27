@@ -22,9 +22,15 @@
 12. encapsulation
 
 ## for error about string for some IDE
-don't forget in header **#include<string.h>** for string
+
+```c++
+#include<string.h>
+```
 ## for error about exit(0) for some IDE C++
-in header add **#include<stdio.h>** for exit in program
+
+```c++
+#include<stdio.h>
+```
 
 ## information
 more information follow me on [instagram](https://instagram.com/arfy.slowy)
