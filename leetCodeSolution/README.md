@@ -1,7 +1,7 @@
 # leet code solution day 1
 
 ## leet code solution
-<p align="center">
+<p align="left">
   <img src="https://icon-icons.com/icons2/2107/PNG/64/file_type_cpp_icon_130670.png"/>
   <b>tool used</b><br>
   <img src="https://icon-icons.com/icons2/2107/PNG/64/file_type_vscode_icon_130084.png"/>
