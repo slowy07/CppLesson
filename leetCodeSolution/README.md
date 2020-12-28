@@ -1,4 +1,4 @@
-# leet code solution day 1
+# leet code solution 1-100
 
 ## leet code solution
 <p align="left">
