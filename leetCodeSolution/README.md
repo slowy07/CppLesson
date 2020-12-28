@@ -12,5 +12,5 @@
 </p>
 
 ## index
-[1-100](https://github.com/slowy07/CppLesson/tree/master/leetCodeSolution)
-[101-200](https://github.com/slowy07/CppLesson/tree/master/leetCodeSolution101-200)
+- [1-100](https://github.com/slowy07/CppLesson/tree/master/leetCodeSolution)
+- [101-200](https://github.com/slowy07/CppLesson/tree/master/leetCodeSolution101-200)
